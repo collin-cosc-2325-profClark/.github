@@ -19,9 +19,11 @@ Below you'll find links to the repositories as they become available:
 - [Chapter 2](https://github.com/collin-cosc-2325-profClark/ch02-materials.git)
 - [Chapter 3](https://github.com/collin-cosc-2325-profClark/ch03-materials.git)
 - [Chapter 4](https://github.com/collin-cosc-2325-profClark/ch04-materials.git)
-<!--
 - [Chapter 5](https://github.com/collin-cosc-2325-profClark/ch05-materials.git)
-- [Chapter 7, Part 1](https://github.com/collin-cosc-1437-profClark/ch07-part-1-materials.git)
+<!--
+- [Chapter 6](https://github.com/collin-cosc-2325-profClark/ch06-materials.git)
+- [Chapter 7](https://github.com/collin-cosc-2325-profClark/ch07-materials.git)
+- [Chapter 8](https://github.com/collin-cosc-2325-profClark/ch08-materials.git)
 -->
 
 <!-- Add more as I release them -->
